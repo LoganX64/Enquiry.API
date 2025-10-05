@@ -6,7 +6,7 @@ This is a simple **CRUD API** built using **ASP.NET Core Web API** and **Entity 
 
 ## ⚙️ Requirements
 - .NET 8 SDK or later  
-- SQL Server or SQLite  
+- SQL Server 
 - Visual Studio or VS Code  
 
 ---
